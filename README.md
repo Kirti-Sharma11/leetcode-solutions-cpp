@@ -66,4 +66,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Tree
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0979-distribute-coins-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0979-distribute-coins-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0979-distribute-coins-in-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0979-distribute-coins-in-binary-tree) |
 <!---LeetCode Topics End-->
