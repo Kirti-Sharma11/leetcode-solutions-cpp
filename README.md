@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0191-number-of-1-bits) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2206-divide-array-into-equal-pairs) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
