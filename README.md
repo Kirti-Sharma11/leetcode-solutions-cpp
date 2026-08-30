@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2206-divide-array-into-equal-pairs) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2963-count-the-number-of-good-partitions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
