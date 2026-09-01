@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0628-maximum-product-of-three-numbers) |
+| [0670-maximum-swap](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0670-maximum-swap) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2963-count-the-number-of-good-partitions) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3536-maximum-product-of-two-digits) |
@@ -112,5 +113,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0670-maximum-swap) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
