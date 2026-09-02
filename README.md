@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0670-maximum-swap) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2963-count-the-number-of-good-partitions) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3536-maximum-product-of-two-digits) |
@@ -114,5 +116,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0670-maximum-swap) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
