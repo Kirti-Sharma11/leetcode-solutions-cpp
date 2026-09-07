@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0904-fruit-into-baskets) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2206-divide-array-into-equal-pairs) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2963-count-the-number-of-good-partitions) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0904-fruit-into-baskets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
