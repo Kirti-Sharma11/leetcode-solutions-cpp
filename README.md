@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0731-my-calendar-ii](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0731-my-calendar-ii) |
 | [0904-fruit-into-baskets](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0930-binary-subarrays-with-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2206-divide-array-into-equal-pairs) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0930-binary-subarrays-with-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2206-divide-array-into-equal-pairs) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2963-count-the-number-of-good-partitions) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0930-binary-subarrays-with-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0731-my-calendar-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0930-binary-subarrays-with-sum) |
 ## Ordered Set
 |  |
 | ------- |
