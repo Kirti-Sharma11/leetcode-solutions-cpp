@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0628-maximum-product-of-three-numbers) |
+| [0731-my-calendar-ii](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0731-my-calendar-ii) |
 | [0904-fruit-into-baskets](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0904-fruit-into-baskets) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -27,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0731-my-calendar-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0731-my-calendar-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Math
 |  |
@@ -130,4 +133,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0731-my-calendar-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
