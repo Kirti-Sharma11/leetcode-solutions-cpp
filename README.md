@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Greedy
 |  |
