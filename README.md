@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0543-diameter-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Greedy
