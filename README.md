@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2963-count-the-number-of-good-partitions](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2963-count-the-number-of-good-partitions) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3875-construct-uniform-parity-array-i) |
