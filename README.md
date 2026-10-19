@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2206-divide-array-into-equal-pairs) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0731-my-calendar-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kirti-Sharma11/leetcode-solutions-cpp/tree/master/3536-maximum-product-of-two-digits) |
